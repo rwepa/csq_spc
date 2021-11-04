@@ -30,3 +30,6 @@ https://github.com/rwepa/csq_spc/blob/main/rf.xlsx
 
 ## R程式: 2021.11.06_csq_spc.R
 https://github.com/rwepa/csq_spc/blob/main/2021.11.06_csq_spc.R
+
+## R shiny - 品質管制圖(quality control chart)應用
+http://rwepa.blogspot.com/2021/10/r-shiny-quality-control-chart.html
